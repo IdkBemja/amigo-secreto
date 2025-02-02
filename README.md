@@ -20,6 +20,11 @@ Esto es una simple página web que usando JavaScript y HTML puedas añadir nombr
 [![CSS](https://img.shields.io/badge/CSS--blue.svg)]()
 
 
+## Live Test
+
+Puedes probar el proyecto en la siguiente página: https://idkbemja.github.io/amigo-secreto/
+
+
 ## Autores
 
 - [@idkbemja](https://www.github.com/idkbemja)
